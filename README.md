@@ -5,7 +5,7 @@
 
 ![書影](./screenshots/序.svg)
 
-### 裝載之法
+### 裝載
 
 ```shell
 wyg i ganzhi
@@ -17,7 +17,7 @@ wyg i ganzhi
 wyg i 干支
 ```
 
-### 使用之法
+### 使用
 
 ```wenyan
 吾嘗觀「「干支」」之書。方悟「干支紀年」之義。

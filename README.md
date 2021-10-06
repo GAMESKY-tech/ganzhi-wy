@@ -1,2 +1,33 @@
-# ganzhi-wy
-Chronology convert to Ganzhi chronology.
+# 干支紀年
+轉公元紀年為干支紀年也。
+
+### 書影
+
+![書影](./screenshots/序.svg)
+
+### 裝載之法
+
+```shell
+wyg i ganzhi
+```
+
+亦或：
+
+```shell
+wyg i 干支
+```
+
+### 使用之法
+
+```wenyan
+吾嘗觀「「干支」」之書。方悟「干支紀年」之義。
+
+此二零二一干支何年。
+```
+
+**輸出**：
+
+```
+辛丑年也
+```
+
